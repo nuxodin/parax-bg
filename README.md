@@ -10,11 +10,11 @@ Highly fantastic Parallax backgrounds
 
 ## Demos 
 - different speeds  
-https://raw.githack.com/nuxodin/parax-bg/master/tests/speed.html
+https://raw.githack.com/nuxodin/parax-bg/main/tests/speed.html
 - reachable area [bg-parax-visible]  
-https://raw.githack.com/nuxodin/parax-bg/master/tests/visible.html
+https://raw.githack.com/nuxodin/parax-bg/main/tests/visible.html
 - demo  
-https://raw.githack.com/nuxodin/parax-bg/master/tests/demo.html
+https://raw.githack.com/nuxodin/parax-bg/main/tests/demo.html
 
 
 
